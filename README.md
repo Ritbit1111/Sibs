@@ -1,1 +1,1 @@
-# Dynamc duo
+# Dynamic duo
